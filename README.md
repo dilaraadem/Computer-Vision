@@ -1,2 +1,2 @@
 # Computer-Vision
-This repository consist of the work I have done during the course.
+Take home exam of Computer Vision course EE417 at Sabancı University.
